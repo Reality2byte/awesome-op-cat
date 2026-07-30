@@ -103,7 +103,8 @@
 
 
 
-## Testnets
+## Live OP_CAT networks
+- [OP_CAT Layer](https://opcatlabs.io): Bitcoin execution layer
 - [Signet](https://en.bitcoin.it/wiki/Signet): OP_CAT enabled
 - [Fractal](https://fractalbitcoin.io/): OP_CAT enabled since launch in Sept 2024
 - [CatNet](https://github.com/Bitcoin-Wildlife-Sanctuary/catnet): a custom Bitcoin signet with OP_CAT enabled
